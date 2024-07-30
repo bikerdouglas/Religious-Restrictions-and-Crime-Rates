@@ -18,11 +18,24 @@ This project aims to explore the relationship between the religious restrictions
 
 To run the analysis, ensure you have the following libraries installed:
 
- pandas
- numpy 
- matplotlib.pyplot 
- seaborn
- plotly.express
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* plotly
+    * express 
+    * graph_objs
+* chart_studio
+    * chart_studio.plotly
+* sklearn
+    * model_selection import train_test_split
+    * linear_model import LogisticRegression
+    * metrics import classification_report, confusion_matrix
+    * impute import SimpleImputer
+* statsmodels
+* scipy.stats
+* os
+* chart_studio.tools
 
 # Data
 
